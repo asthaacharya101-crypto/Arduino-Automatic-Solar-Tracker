@@ -41,3 +41,8 @@ This project is an Arduino UNO-based automatic solar tracking prototype develope
 
 ## Technical Note
 Standard IR obstacle-detection sensors are not reliable for measuring sunlight intensity. Actual tracking performance depends on sensor type and Arduino code.
+
+
+## Project Photograph
+
+![Arduino Solar Tracking System](solar%20traking%20.jpeg)
